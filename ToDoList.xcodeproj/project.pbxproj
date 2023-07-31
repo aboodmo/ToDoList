@@ -30,6 +30,7 @@
 		2F64C81D2A774F0F00811CE3 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F64C81C2A774F0F00811CE3 /* LoginViewViewModel.swift */; };
 		2F64C81F2A774F2200811CE3 /* RegristerViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F64C81E2A774F2200811CE3 /* RegristerViewViewModel.swift */; };
 		2F64C8212A774F3000811CE3 /* ItemRowViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F64C8202A774F3000811CE3 /* ItemRowViewViewModel.swift */; };
+		2F64C8232A77569D00811CE3 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F64C8222A77569D00811CE3 /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		2F64C81C2A774F0F00811CE3 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		2F64C81E2A774F2200811CE3 /* RegristerViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegristerViewViewModel.swift; sourceTree = "<group>"; };
 		2F64C8202A774F3000811CE3 /* ItemRowViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRowViewViewModel.swift; sourceTree = "<group>"; };
+		2F64C8222A77569D00811CE3 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				2F64C80A2A774E0000811CE3 /* LoginView.swift */,
 				2F64C80C2A774E0A00811CE3 /* RegristerView.swift */,
 				2F64C80E2A774E4200811CE3 /* ItemRowView.swift */,
+				2F64C8222A77569D00811CE3 /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F64C80B2A774E0000811CE3 /* LoginView.swift in Sources */,
+				2F64C8232A77569D00811CE3 /* HeaderView.swift in Sources */,
 				2F64C7EB2A774A6300811CE3 /* MainView.swift in Sources */,
 				2F64C8152A774ED400811CE3 /* MainViewViewModel.swift in Sources */,
 				2F64C8072A774DEA00811CE3 /* ToDoListView.swift in Sources */,
